@@ -7,7 +7,7 @@
 - Update Profile Pages
 - Fix Crashes
 
-## Update v2.2 (Beta)
+## Update v2.1 (Beta)
 
 - Added Steam Connection
 - Fix Connection Session Error
